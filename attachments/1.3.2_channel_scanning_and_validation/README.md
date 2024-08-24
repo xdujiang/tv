@@ -1,4 +1,6 @@
-# Scanner
+# Video source tools
+
+## Scanner
 
 - iptvscanner.exe [https://github.com/sdhzdmzzl/iptv_channel_scanner_windows]
   - Open source project, linux version also available
@@ -13,7 +15,7 @@
   - Only support http/https
   - Only check http connection, not content
 
-# Checker
+## Checker
 
 - IPTV Checker 2.5.exe
   - Only support http/https
@@ -22,9 +24,10 @@
 - 直源检测验证管理工具v1.1.7z
   - Support rtp/http/https
   - Check video content, video resolution is parsed
+  - Include simple video player, source can be manually checked easily
   - Source is checked one by one, pretty slow. (can be faster if unused NICs are disabled)
 
-# Misc
+## Misc
 
 - TeleList-2.6.1.7z [https://guihet.com/tvlive-telelist.html]
   - Playlist convert and organization
